@@ -1,5 +1,15 @@
 # vue
- 
+## 技术栈
+vue2，vue-router,axios
+## 亮点
+使用图片懒加载，实现登录功能(前置路由守卫)
+## 功能
+1. 修改个人信息
+2. 二维码登录
+3. 侧边栏动画
+4. 个人页面效果还原
+5. 歌单详情页
+## 效果图
 ![42b006acc03588387846ccc932e9076](https://github.com/wangyuening0522/vue2/assets/111636755/c5ecac33-8ab7-45d8-a640-5742c4911f2c)
 ![f3201e1de6ea0df50a7087d76324ab7](https://github.com/wangyuening0522/vue2/assets/111636755/2a4daf17-ec0a-417c-a5bc-690f78286320)
 ![12aed7aa227f1be73f707f049a53269](https://github.com/wangyuening0522/vue2/assets/111636755/fc30fcfb-42f7-4fac-871d-c97589293e16)
